@@ -1,0 +1,13 @@
+{
+  "frames": 63,
+  "person_frames": 0,
+  "full_body_frames": 0,
+  "errors": [],
+  "frame_shape": [
+    480,
+    640,
+    3
+  ],
+  "median_reported_fps": 8.17,
+  "camera_images_saved": false
+}

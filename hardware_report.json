@@ -1,0 +1,14 @@
+{
+  "pose": "Model initialized; blank-frame inference completed",
+  "hands": "Model initialized; blank-frame inference completed",
+  "camera": {
+    "opened": true,
+    "frames_read": 30,
+    "shape": [
+      480,
+      640,
+      3
+    ],
+    "elapsed_seconds": 4.984
+  }
+}

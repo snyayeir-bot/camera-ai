@@ -1,0 +1,345 @@
+[
+  {
+    "id": "heritage",
+    "name": "Heritage / Men",
+    "name_km": "បុរស / គំរូ",
+    "category": "Traditional men",
+    "gender": "male",
+    "placeholder": true,
+    "thumbnail": "male/heritage_thumb.png",
+    "layers": [
+      {
+        "kind": "upper",
+        "asset": "male/heritage_upper.png",
+        "anchors": [
+          [
+            0.225,
+            0.125
+          ],
+          [
+            0.775,
+            0.125
+          ],
+          [
+            0.5,
+            0.83
+          ]
+        ],
+        "scale": 1.0
+      },
+      {
+        "kind": "lower",
+        "asset": "male/heritage_lower.png",
+        "anchors": [
+          [
+            0.25,
+            0.073
+          ],
+          [
+            0.75,
+            0.073
+          ],
+          [
+            0.5,
+            0.94
+          ]
+        ],
+        "scale": 1.0
+      }
+    ]
+  },
+  {
+    "id": "silk",
+    "name": "Silk / Women",
+    "name_km": "ស្ត្រី / គំរូ",
+    "category": "Traditional women",
+    "gender": "female",
+    "placeholder": true,
+    "thumbnail": "female/silk_thumb.png",
+    "layers": [
+      {
+        "kind": "upper",
+        "asset": "female/silk_upper.png",
+        "anchors": [
+          [
+            0.225,
+            0.125
+          ],
+          [
+            0.775,
+            0.125
+          ],
+          [
+            0.5,
+            0.83
+          ]
+        ],
+        "scale": 1.0
+      },
+      {
+        "kind": "lower",
+        "asset": "female/silk_lower.png",
+        "anchors": [
+          [
+            0.25,
+            0.073
+          ],
+          [
+            0.75,
+            0.073
+          ],
+          [
+            0.5,
+            0.94
+          ]
+        ],
+        "scale": 1.0
+      }
+    ]
+  },
+  {
+    "id": "wedding",
+    "name": "Golden ceremony",
+    "name_km": "អាពាហ៍ពិពាហ៍ / គំរូ",
+    "category": "Wedding",
+    "gender": "unisex",
+    "placeholder": true,
+    "thumbnail": "unisex/wedding_thumb.png",
+    "layers": [
+      {
+        "kind": "upper",
+        "asset": "unisex/wedding_upper.png",
+        "anchors": [
+          [
+            0.225,
+            0.125
+          ],
+          [
+            0.775,
+            0.125
+          ],
+          [
+            0.5,
+            0.83
+          ]
+        ],
+        "scale": 1.0
+      },
+      {
+        "kind": "lower",
+        "asset": "unisex/wedding_lower.png",
+        "anchors": [
+          [
+            0.25,
+            0.073
+          ],
+          [
+            0.75,
+            0.073
+          ],
+          [
+            0.5,
+            0.94
+          ]
+        ],
+        "scale": 1.0
+      }
+    ]
+  },
+  {
+    "id": "sampot",
+    "name": "Sampot study",
+    "name_km": "សំពត់ / គំរូ",
+    "category": "Silk sampot",
+    "gender": "unisex",
+    "placeholder": true,
+    "thumbnail": "unisex/sampot_thumb.png",
+    "layers": [
+      {
+        "kind": "upper",
+        "asset": "unisex/sampot_upper.png",
+        "anchors": [
+          [
+            0.225,
+            0.125
+          ],
+          [
+            0.775,
+            0.125
+          ],
+          [
+            0.5,
+            0.83
+          ]
+        ],
+        "scale": 1.0
+      },
+      {
+        "kind": "lower",
+        "asset": "unisex/sampot_lower.png",
+        "anchors": [
+          [
+            0.25,
+            0.073
+          ],
+          [
+            0.75,
+            0.073
+          ],
+          [
+            0.5,
+            0.94
+          ]
+        ],
+        "scale": 1.0
+      }
+    ]
+  },
+  {
+    "id": "ceremony",
+    "name": "Midnight ceremony",
+    "name_km": "ពិធី / គំរូ",
+    "category": "Ceremonial",
+    "gender": "male",
+    "placeholder": true,
+    "thumbnail": "male/ceremony_thumb.png",
+    "layers": [
+      {
+        "kind": "upper",
+        "asset": "male/ceremony_upper.png",
+        "anchors": [
+          [
+            0.225,
+            0.125
+          ],
+          [
+            0.775,
+            0.125
+          ],
+          [
+            0.5,
+            0.83
+          ]
+        ],
+        "scale": 1.0
+      },
+      {
+        "kind": "lower",
+        "asset": "male/ceremony_lower.png",
+        "anchors": [
+          [
+            0.25,
+            0.073
+          ],
+          [
+            0.75,
+            0.073
+          ],
+          [
+            0.5,
+            0.94
+          ]
+        ],
+        "scale": 1.0
+      }
+    ]
+  },
+  {
+    "id": "apsara",
+    "name": "Apsara study",
+    "name_km": "អប្សរា / គំរូ",
+    "category": "Apsara-inspired",
+    "gender": "female",
+    "placeholder": true,
+    "thumbnail": "female/apsara_thumb.png",
+    "layers": [
+      {
+        "kind": "upper",
+        "asset": "female/apsara_upper.png",
+        "anchors": [
+          [
+            0.225,
+            0.125
+          ],
+          [
+            0.775,
+            0.125
+          ],
+          [
+            0.5,
+            0.83
+          ]
+        ],
+        "scale": 1.0
+      },
+      {
+        "kind": "lower",
+        "asset": "female/apsara_lower.png",
+        "anchors": [
+          [
+            0.25,
+            0.073
+          ],
+          [
+            0.75,
+            0.073
+          ],
+          [
+            0.5,
+            0.94
+          ]
+        ],
+        "scale": 1.0
+      }
+    ]
+  },
+  {
+    "id": "modern",
+    "name": "Modern indigo",
+    "name_km": "សម័យថ្មី / គំរូ",
+    "category": "Modern Khmer-inspired",
+    "gender": "unisex",
+    "placeholder": true,
+    "thumbnail": "unisex/modern_thumb.png",
+    "layers": [
+      {
+        "kind": "upper",
+        "asset": "unisex/modern_upper.png",
+        "anchors": [
+          [
+            0.225,
+            0.125
+          ],
+          [
+            0.775,
+            0.125
+          ],
+          [
+            0.5,
+            0.83
+          ]
+        ],
+        "scale": 1.0
+      },
+      {
+        "kind": "lower",
+        "asset": "unisex/modern_lower.png",
+        "anchors": [
+          [
+            0.25,
+            0.073
+          ],
+          [
+            0.75,
+            0.073
+          ],
+          [
+            0.5,
+            0.94
+          ]
+        ],
+        "scale": 1.0
+      }
+    ]
+  }
+]

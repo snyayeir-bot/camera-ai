@@ -1,0 +1,15 @@
+{
+  "camera": 0,
+  "width": 640,
+  "height": 480,
+  "mirror": true,
+  "language": "km",
+  "sensitivity": 0.55,
+  "clothing_scale": 1.08,
+  "photo_dir": "photos",
+  "inference_width": 640,
+  "hand_interval": 3,
+  "fullscreen": false,
+  "idle_seconds": 20,
+  "frame": true
+}
